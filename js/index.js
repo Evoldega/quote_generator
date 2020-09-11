@@ -26,6 +26,7 @@ const engine = () => {
     quote_change();
     colors_change();
 }
+
 button[0].addEventListener("click", engine);
 
 
